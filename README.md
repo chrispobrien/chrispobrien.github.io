@@ -51,6 +51,10 @@ This will create the folder chrispobrien.github.io within which you will find in
 
 Move or copy the contents of the folder chrispobrien.github.io into your web server's folder, for example in Microsoft IIS [c:\inetpub\wwwroot\] or (recommended) a subfolder like [c:\inetpub\wwwroot\week01\].
 
+```md
+![alt text](assets/images/screenshot.jpg)
+```
+
 ## Credits
 
 This is a refactored copy of the Week 1 homework challenge. Columbia Bootcamp/Trilogy.
