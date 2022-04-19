@@ -41,7 +41,9 @@ Using Google Chrome's Lighthouse developer tool I realized the jpeg images were 
 
 Using git, issue the command:
 
+'''sh
 git clone https://github.com/chrispobrien/chrispobrien.github.io.git
+'''
 
 This will create the folder chrispobrien.github.io within which you will find index.html, this README.md file, and an assets folder containing a css folder for one stylesheet, style.css, and an images folder containing the images that appear on this page.
 
